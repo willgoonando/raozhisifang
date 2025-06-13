@@ -38,6 +38,9 @@ results/
 *.jpg
 *.jpeg
 *.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
+!screenshots/*.png
 *.txt
 !requirements.txt
 !README.txt
